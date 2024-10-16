@@ -357,6 +357,3 @@ Tab:AddButton({
 
 
 OrionLib:Init()
-
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/14poisoned/PETS-GO/refs/heads/main/Pets%20go',true))()
